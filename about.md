@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Marek Siekierski
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a 28 year-old software engineer living near Toronto. I'll have a better 'about' page in a few days.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This website is built with Jekyll & Github Pages, hosted [here](https://github.com/marekfs/marekfs).
 
-
-[jekyll-organization]: https://github.com/jekyll
+![Frame is lookin' tight.](https://dl.dropboxusercontent.com/s/p5l6znikbi20c4m/20190103035902_1.jpg)
