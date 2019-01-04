@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome!"
 date:   2018-12-31 21:52:48 -0500
-categories: website blog new
+categories: blog
 ---
 Thanks for checking out my personal site. I've built the website using Jekyll + Github Pages, and over the next few days I'll be tweaking the configuration and should have a meaningful first post soon!
 
