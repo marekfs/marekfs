@@ -9,5 +9,3 @@ permalink: /about/
 I'm a 28 year-old software engineer living near Toronto. I'll have a better 'about' page in a few days.
 
 This website is built with Jekyll & Github Pages, hosted [here](https://github.com/marekfs/marekfs).
-
-![Frame is lookin' tight.](https://dl.dropboxusercontent.com/s/p5l6znikbi20c4m/20190103035902_1.jpg)
