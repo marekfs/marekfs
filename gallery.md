@@ -4,6 +4,6 @@ title: Gallery
 permalink: /gallery/
 ---
 
-Website is a work in progress, and I'm currently working on the gallery format to share some of my photography. Here's a screenshot of my goat Warframe for now:
+(Some sample screenshots taken playing Warframe today, to test image gallery)
 
-![Frame is lookin' tight.](https://dl.dropboxusercontent.com/s/p5l6znikbi20c4m/20190103035902_1.jpg)
+{% include image-gallery.html folder="/uploads/album" %}
