@@ -5,4 +5,4 @@
     .image-gallery a img {width: 100%; display: block;}
 </style>
 
-<p class="image-gallery">{% for image in site.data.images %}<a href="{{ image.url }}" title="{{ image.title }}"><image src="//images.weserv.nl/?url={{ image.url | replace: 'http://','' | replace: 'https://',''  }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ image.title }}" title="{{ image.title }}" /><span>{{ image.title }}</span></a>{% endfor %}</p>
+<p class="image-gallery">{% for image in site.data.images %}<a href="{{ image.url }}" title="{{ image.title }}" data-featherlight="image"><image src="//images.weserv.nl/?url={{ image.url | replace: 'http://','' | replace: 'https://',''  }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ image.title }}" title="{{ image.title }}" /><span>{{ image.title }}</span></a>{% endfor %}</p>
