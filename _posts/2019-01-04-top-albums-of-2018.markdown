@@ -19,28 +19,28 @@ In no particular order, here are my top albums from 2018:
 
 #### Slugdge - Esoteric Malacology
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BsTsOZqQiTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/BsTsOZqQiTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Psycroptic - As the Kingdom Drowns
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UVWx4HibjMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/UVWx4HibjMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Gorod - Aethra
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BdpP-aAZhjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/BdpP-aAZhjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Thantifaxath - Void Masquerading as Matter
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SSk23EvfZ2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/SSk23EvfZ2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Horrendous - Idol
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-r9iS6fWnMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/-r9iS6fWnMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Sumac - Love in Shadow
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DwmeIbwlv9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/DwmeIbwlv9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Vein - Errorzone
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rpPHDdDWpms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/rpPHDdDWpms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
