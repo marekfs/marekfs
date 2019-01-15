@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Frozen"
+date:   2019-01-14 23:52:48 -0500
+categories: photo
+---
+
+![Moon on lake]({{ "/assets/img/placeholder.png" | relative_url }}){:class="lazy" data-src="https://dl.dropboxusercontent.com/s/w5uc7ct0ld267pk/DSC_8391.jpg"}
+
+It's pretty hard to take photos at night. Reading some of my dad's old photography books has helped, but there is still lots of trial and error while I'm getting the hang of it. I froze my ass off (-10C) taking some photos late last night of the moon reflecting off the half frozen lake. Some pictures turned out OK, but I think next time I'll play around with the aperture more as I only really experimented with the shutter speed and ISO.
+
+I liked this picture because it reminded me of a black metal album cover:
+
+![Better than yet]({{ "/assets/img/placeholder.png" | relative_url }}){:class="lazy" data-src="https://dl.dropboxusercontent.com/s/fsty53kytgtawvi/bty.jpg"}

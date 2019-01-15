@@ -5,4 +5,4 @@ date:   2019-01-07 00:52:48 -0500
 categories: photo
 ---
 
-![La Lune]({{ "/assets/img/placeholder.png" | relative_url }}){:class="lazy" data-src="https://dl.dropboxusercontent.com/s/y2twpw4psitrbdr/DSC_7947.JPG"}
+![La Lune]({{ "/assets/img/placeholder.png" | relative_url }}){:class="lazy" data-src="https://dl.dropboxusercontent.com/s/aa419zhnmvxbyxw/DSC_7947.jpg"}
