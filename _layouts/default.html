@@ -5,6 +5,9 @@
 
   <body>
 
+    {%- if page.fb == 'true' -%}
+      {%- include fbsdk.html -%}
+    {%- endif -%}
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
