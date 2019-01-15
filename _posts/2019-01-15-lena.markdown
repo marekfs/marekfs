@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Lena
+date:   2019-01-15 13:45:10 -0500
+categories: photo
+---
+
+![Lena]({{ "/assets/img/placeholder.png" | relative_url }}){:class="lazy" data-src="https://dl.dropboxusercontent.com/s/rb5abqfeyirl6wp/lena.jpg"}
+
+This little girl has given me a sense of purpose - my heart aches for her like never before. Watching her grow so quickly reminds me how short life really is.
