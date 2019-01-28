@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "bspwm"
+date:   2019-01-28 2:00:34 -0500
+categories: dev
+---
+
+Spent the last few hours playing with bspwm - a tilling window manager for linux. There are a lot of configurations, so it's taken me some time, but it's coming along.
+
+![]({{ "/assets/img/placeholder.png" | relative_url }}){:class="lazy" data-src="https://dl.dropboxusercontent.com/s/ayfh7n2svrnlhab/bspwm.jpg"}
+
+I'll post some more photos with info about the tools I have installed along with a link to my .dotfiles repo once I'm done with my configuration (are you ever really *done*?).
