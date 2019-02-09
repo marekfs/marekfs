@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The Patron Saint of JPEGs"
+date:   2019-02-08 19:49:00 -0500
+categories: blog
+---
+
+[Lena is the patron saint of JPEGs](https://www.wired.com/story/finding-lena-the-patron-saint-of-jpegs). It is my favourite image compression format, so this is quite fitting.
