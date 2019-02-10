@@ -5,6 +5,10 @@ date:   2019-01-25 3:00:05 -0500
 categories: music
 ---
 
+<p align="center">
+<img class="lazy" src="{{ "/assets/img/placeholder.png" | relative_url }}" data-src="https://dl.dropboxusercontent.com/s/ztwt86vwz98isxa/gargoyl-tmrw.jpg">
+</p>
+
 ![]({{ "/assets/img/placeholder.png" | relative_url }}){:class="lazy" data-src="https://dl.dropboxusercontent.com/s/ztwt86vwz98isxa/gargoyl-tmrw.jpg"}
 
 From the band's [instagram](https://www.instagram.com/gargoylband/) story yesterday... Can't wait to hear this.
