@@ -6,7 +6,7 @@ categories: photo
 ---
 
 ![]({{ "/assets/img/placeholder.png" | relative_url }}){:class="lazy" data-src="https://dl.dropboxusercontent.com/s/mwih50ddahycoau/len5months.jpg"}
-
+<br>
 5 months old. She's growing so fast. I love her more than anything.
 
 The last month has been challenging, but I've made the decision to better myself in many ways. I haven't had a cigarette in over a month (I had smoked for over 10 years) and I no longer drink alcohol during the week (I'll maybe have a drink on the weekends). Most importantly, I've been able to create a habit of going to the gym and exercising. I have an addictive personality - and I get addicted to everything, including people - and this is an addiction that I'm OK with. Going to the gym daily in combinitation with quitting smoking and drinking, has given me so much more energy and a much more positive outlook on life. It's cliché, but exercise is so important. It feels so good to use your body. The healthier I am, the longer I can be there for my family.
