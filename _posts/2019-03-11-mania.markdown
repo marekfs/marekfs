@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Mania - Mirror"
+date:   2019-03-11 11:54:19 -0500
+categories: music
+---
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/sc7s6vpTAPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
