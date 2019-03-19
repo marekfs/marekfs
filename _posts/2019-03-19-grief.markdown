@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "To live"
+date:   2019-03-19 14:52:32 -0500
+categories: photo
+---
+
+![Widower]({{ "/assets/img/placeholder.png" | relative_url }}){:class="lazy" data-src="https://dl.dropboxusercontent.com/s/wp6jwpcogj1n87e/widower.jpg"}
+
+"To live is to suffer, to survive is to find some meaning in the suffering."
